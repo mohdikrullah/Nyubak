@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+
+form {
+    background-color: azure;
+}
+
+button {
+    padding: 10px;
+    margin: 30px;
+    background-color: aqua;
+    color: purple;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 10px;
+}
+
+h2 {
+    background-color: brown;
+}
